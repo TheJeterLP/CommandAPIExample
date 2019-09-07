@@ -1,0 +1,5 @@
+name: ${project.name}
+main: de.thejeterlp.commandapiexample.Main
+version: ${project.version}
+author: TheJeterLP
+description: Command API Example Plugin
